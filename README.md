@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinivas Narhare</h1>
-<h3 align="center">A passionate python developer from India. Forward-thinking masters with a MTech in Computer Science. Eager to join Oracle Corporation. to develop information systems by designing and implementing streamlined procedures to improve performance. Skilled in C++ analysis, python developer and programming as well as creating and updating design documents.</h3>
+<h3 align="center">A passionate python developer from India. Forward-thinking masters with a MTech in Computer Science. Eager to join Oracle Corporation. to develop information systems by designing and implementing streamlined procedures to improve performance. Skilled in C++ , python developer and programming as well as creating and updating design documents.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinivas9606&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivas9606" /> </p>
 
