@@ -1,70 +1,107 @@
 <h1 align="center">
-  Hi 👋, I'm Shrinivas Narhare
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=30A3DC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shrinivas+Narhare+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h3 align="center">A dedicated Python developer hailing from India, armed with forward-thinking prowess and a Master's degree in Computer Science (M.Tech). Enthusiastically poised to contribute to Oracle Corporation, leveraging expertise in crafting information systems through the design and implementation of efficient procedures to elevate performance standards. Proficient in an array of technologies including C++, Python, Django, Flask, Node.js, React.js, Express.js, MongoDB, MySQL, Git, GitHub Pages, and Unity. Demonstrated proficiency extends to adeptly creating and updating comprehensive design documents.</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shrinivas9606&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivas9606" /> 
+<p align="center">
+  <em>A passionate Full-Stack Developer from India with a Master's degree in Computer Science (M.Tech).<br>
+  I specialize in building efficient, scalable information systems and am always excited to learn and implement new technologies.
+  </em>
 </p>
 
-<p align="left"> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrinivas9606&label=PROFILE+VIEWS&color=30A3DC&style=for-the-badge" alt="shrinivas9606" />
+</p>
+
+---
+
+### 📬 How to Reach Me:
+-   **Email:** **shrinivasnarahre2@gmail.com**
+-   **LinkedIn:** **[linkedin.com/in/shrinivas9606](https://linkedin.com/in/shrinivas9606)**
+
+<p align="center">
+  <a href="https://linkedin.com/in/shrinivas9606" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shrinivas9606"/></a>
+  <a href="https://twitter.com/narhareshri83" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="narhareshri83"/></a>
+  <a href="https://www.facebook.com/shrinivas.narhare.549" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="shrinivas.narhare.549"/></a>
+  <a href="https://instagram.com/shri_._reddy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shri_._reddy"/></a>
+</p>
+
+---
+
+### 🚀 My Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+      <br><strong>React.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+      <br><strong>Express.js</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="django"/>
+      <br><strong>Django</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="flask"/>
+      <br><strong>Flask</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+      <br><strong>MySQL</strong>
+    </td>
+     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git"/>
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="40" alt="unity"/>
+      <br><strong>Unity</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats & Trophies
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrinivas9606" alt="shrinivas9606" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on **MongoDB database related projects**
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **shrinivasnarahre2@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://twitter.com/narhareshri83" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narhareshri83" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/shrinivas9606" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinivas9606" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/https://www.facebook.com/shrinivas.narhare.549" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shrinivas.narhare.549" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/shri_._reddy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shri_._reddy" height="30" width="40" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shrinivas9606&theme=dracula&column=7&margin-w=15&margin-h=15" alt="shrinivas9606" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django"/>
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="30" alt="unity"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrinivas9606&show_icons=true&theme=tokyonight&border_color=30A3DC&title_color=30A3DC&text_color=FFF" alt="shrinivas9606" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinivas9606&layout=compact&theme=tokyonight&border_color=30A3DC&title_color=30A3DC&text_color=FFF" alt="shrinivas9606" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinivas9606&show_icons=true&locale=en&layout=compact" alt="shrinivas9606" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrinivas9606&show_icons=true&locale=en" alt="shrinivas9606" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas9606&" alt="shrinivas9606" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas9606&theme=dark&background=0D1117&border=30A3DC&date_format=M%20j%5B%2C%20Y%5D" alt="shrinivas9606" />
+</p>
